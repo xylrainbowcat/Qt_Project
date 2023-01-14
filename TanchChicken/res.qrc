@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.jpg</file>
+        <file>res/logo.png</file>
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>res/7.png</file>
+        <file>res/8.png</file>
+        <file>res/dan.png</file>
+        <file>res/food.png</file>
+        <file>res/ngm.wav</file>
+        <file>res/gameover.png</file>
+        <file>res/bgm.wav</file>
+        <file>res/back.png</file>
+        <file>res/start.png</file>
+        <file>res/stop.png</file>
+        <file>res/AI.png</file>
+        <file>res/AI2.png</file>
+        <file>res/pay.png</file>
+    </qresource>
+</RCC>

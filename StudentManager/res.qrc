@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cj.png</file>
+        <file>res/jc.png</file>
+        <file>res/jf.png</file>
+        <file>res/kc.png</file>
+        <file>res/wd.png</file>
+        <file>res/search.png</file>
+        <file>res/arrow.png</file>
+        <file>res/avatar.png</file>
+        <file>res/text.png</file>
+        <file>res/logo.png</file>
+    </qresource>
+</RCC>
