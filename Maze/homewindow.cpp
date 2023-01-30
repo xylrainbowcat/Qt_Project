@@ -4,8 +4,9 @@
 HomeWindow::HomeWindow(QWidget *parent) : QMainWindow(parent), ui(new Ui::HomeWindow) {
     ui->setupUi(this);
 
-    setWindowFlags(Qt::FramelessWindowHint);
-    showFullScreen();
+    //setWindowFlags(Qt::FramelessWindowHint);
+    //showFullScreen();
+    setFixedSize(1536, 864);
     setWindowIcon(QIcon(":/res/icon.png"));
 
     homeBgm = new QMediaPlayer;

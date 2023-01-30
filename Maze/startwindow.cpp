@@ -4,8 +4,10 @@
 StartWindow::StartWindow(QWidget *parent) : QMainWindow(parent), ui(new Ui::StartWindow) {
     ui->setupUi(this);
 
-    setWindowFlags(Qt::FramelessWindowHint);
-    showFullScreen();
+
+    //setWindowFlags(Qt::FramelessWindowHint);
+    //showFullScreen();
+    setFixedSize(1536, 864);
     setWindowIcon(QIcon(":/res/icon.png"));
 
     ui -> startBtn -> move(503, 904);

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 9.0.0, 2023-01-13T22:07:15. -->
+<!-- Written by QtCreator 9.0.0, 2023-01-16T00:23:30. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -236,9 +236,8 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">StudentManager2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/24861/Documents/QQ Data/2486167735/FileRecv/MobileFile/2_StudentManager (1)/StudentManager/StudentManager.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/24861/Documents/QQ Data/2486167735/FileRecv/MobileFile/2_StudentManager (1)/StudentManager/StudentManager.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/24861/Documents/Qt_Project/StudentManager/StudentManager/StudentManager.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/24861/Documents/Qt_Project/StudentManager/StudentManager/StudentManager.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
